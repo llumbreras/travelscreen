@@ -1,0 +1,7 @@
+%article.video_category
+  %header
+    %h3= link_to "Comedy"
+  .videos.row
+    - @videos.each do |video|
+      .video.col-sm-2
+        %img(src="#{video.small_cover_url}")
