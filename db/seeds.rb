@@ -23,6 +23,6 @@ Video.create(title: "New York", description: "Stories set in New York", small_co
 Video.create(title: "Paris", description: "Stories set in Paris", small_cover_url: "/tmp/paris_je_taime_small.png", large_cover_url: "/tmp/paris_je_taime_large.png", category: drama)
 Video.create(title: "To Rome with Love", description: "The lives of visitors and residents in Rome", small_cover_url: "/tmp/to_rome_with_love_small.png", large_cover_url: "/tmp/to_rome_with_love_large.png", category: comedy)
 Video.create(title: "Secret Life of Wlater Mitty", description: "A day-dreamer escapes his anonymous life", small_cover_url: "/tmp/secret_life_walter_mitty_small.png", large_cover_url: "/tmp/secret_life_walter_mitty_large.png", category: comedy)
-Video.create(title: "Best Exotic Marigold Hotel", description: "Retirees travel to India", small_cover_url: "/tmp/best_exotic_marigold_hotel_small.png", large_cover_url: "/tmp/best_exotic_marigold_hotel_large.png", category: drama)
+Video.create(title: "Best Exotic Marigold Hotel", description: "Retirees travel to India", small_cover_url: "/tmp/best_exotic_marigold_hotel_small.png", large_cover_url: "/tmp/best_exotic_marigold_hotel_large.png", category: comedy)
 
 
